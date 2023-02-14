@@ -1,4 +1,4 @@
-# login-voice
+# LoginPNG
 
 登录失败时使用笔记本摄像头进行拍照
 
